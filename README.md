@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbexten&size_weight=0.5&count_weight=0.5&theme=gruvbox_light&hide=php,html,css&layout=compact)
+![Top Langs](https://github-readme-stats-jacobbexten.vercel.app/api/top-langs/?username=jacobbexten&size_weight=0.5&count_weight=0.5&theme=gruvbox_light&hide=php,html,css&layout=compact)
 <!--
 **jacobbexten/jacobbexten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
