@@ -1,5 +1,5 @@
 
-  ## Jacob Bexten  
+  ## Jake Bexten  
   **Software Engineer** at Idaho Forest Group
   
   <div align="left">
