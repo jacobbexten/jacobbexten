@@ -3,12 +3,12 @@
   **Software Engineer** at Idaho Forest Group
   
   <div align="left">
-    <p>🌟  .NET Blazor Enjoyer</p>
-    <p>🌟  Android Developer by Trade</p>
-    <p>🌟  Trunk-Based Development Advocate</p>
-    <p>🌟  C# & Kotlin Enthusiast</p>
-    <p>🌟  Passionate about UI/UX</p>
-    <p>🌟  Continuous learner</p>
+    <p>🔥  .NET Blazor Enjoyer</p>
+    <p>🤖  Android Developer by Trade</p>
+    <p>🪵  Trunk-Based Development Advocate</p>
+    <p>🤩  C# & Kotlin Enthusiast</p>
+    <p>🖼️  Passionate about UI/UX</p>
+    <p>📚  Continuous learner</p>
   </div>
 
 
